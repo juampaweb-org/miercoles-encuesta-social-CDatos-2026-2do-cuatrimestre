@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Resultado generado por analizar_encuesta.py (se regenera corriendo el script)
+output/
+
 # C extensions
 *.so
 
